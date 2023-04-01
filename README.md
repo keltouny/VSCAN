@@ -17,7 +17,7 @@ The selected buildings are the Van Nuys hotel (ID 24376), the Sherman Oaks comme
 The recordings can be obtained from [Center for Engineering Strong Motion Data](https://www.strongmotioncenter.org/).
 
 ## Contents description
-Scripts for each case are located in independent directories. The code is identicial except for the "main.py" files.
+Scripts for each case are located in the corresponding directory. The code is identicial for all cases except for the "main.py" files.
 Records from CSMIP should be placed in the "building/{stationID}/" directory.
 
 Saved model weights are located in the "Weights" directory.
