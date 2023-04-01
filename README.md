@@ -5,10 +5,6 @@ Kareem Eltouny and Xiao Liang. Uncertainty-Aware Structural Damage Warning Syste
 
 ![overview](https://github.com/keltouny/vscan/blob/main/figures/overview.jpg)
 
-## V-SCAN architecture
-
-![VSCAN](https://github.com/keltouny/vscan/blob/main/figures/vscan.jpg)
-
 ## Dependencies
 - python 3.8
 - CUDA 11.2
