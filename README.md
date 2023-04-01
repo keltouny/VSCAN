@@ -38,9 +38,9 @@ Saved model weights are located in the "Weights" directory. To be used, they nee
 ## Citation
 If you wish to cite the work, you may use the following:
 ```ruby
-@article{author = {Eltouny, Kareem and Liang, Xiao},
-    title = "{Uncertainty-Aware Structural Damage Warning System Using Deep Variational Composite Neural Networks}",
-    journal = {Earthquake Engineering & Structural Dynamics},
-    year = {under review},
+@article{author={Eltouny, Kareem and Liang, Xiao},
+    title="{Uncertainty-Aware Structural Damage Warning System Using Deep Variational Composite Neural Networks}",
+    journal={Earthquake Engineering & Structural Dynamics},
+    year={under review},
 }
 ```
