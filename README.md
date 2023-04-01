@@ -1,7 +1,8 @@
 # Uncertainty-Aware Structural Damage Warning System Using Deep Variational Composite Neural Networks
-This is the code for the paper
+This is the code for the paper:
 
 Kareem Eltouny and Xiao Liang. Uncertainty-Aware Structural Damage Warning System Using Deep Variational Composite Neural Networks. Earthquake Engineering & Structural Dynamics (Under review).
+
 
 ![overview](https://github.com/keltouny/vscan/blob/main/figures/overview.jpg)
 
